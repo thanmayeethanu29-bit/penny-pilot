@@ -1,0 +1,12 @@
+# Local database (re-created automatically on first run)
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
